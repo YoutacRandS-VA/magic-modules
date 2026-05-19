@@ -7,7 +7,7 @@ require (
 	gopkg.in/yaml.v2 v2.4.0
 )
 
-require github.com/golang/glog v1.2.0
+require github.com/golang/glog v1.2.4
 
 require github.com/otiai10/copy v1.9.0
 
